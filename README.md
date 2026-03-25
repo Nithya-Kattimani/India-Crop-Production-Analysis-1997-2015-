@@ -91,5 +91,4 @@ india-crop-yield-analysis/
 
 ## 👩‍💻 Author
 **Nithya Kattimani**  
-Business Analyst | Data Analytics Enthusiast  
-[LinkedIn](#) | [Portfolio](#)
+
